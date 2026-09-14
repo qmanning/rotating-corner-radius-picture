@@ -61,3 +61,7 @@ The component fills its parent, so give the parent a height. To change the two r
 ## License
 
 MIT. Take it, change it, ship it — a link back is nice but not required.
+
+---
+
+Made by [Q Manning](https://qmanning.com) · [Source on GitHub](https://github.com/qmanning/rotating-corner-radius-picture) · [See it live in the Labs](https://qmanning.com/labs/rotating-corner-radius-picture)
